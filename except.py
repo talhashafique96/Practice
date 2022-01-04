@@ -1,0 +1,1 @@
+print("Second file in DATA-2022")
